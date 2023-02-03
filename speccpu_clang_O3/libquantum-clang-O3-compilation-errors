@@ -1,0 +1,250 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'quantum_get_decoherence', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_get_decoherence')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_get_decoherence')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'quantum_qec_get_status', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_qec_get_status')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_qec_get_status')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'test_sum', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/test_sum')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/test_sum')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'addn', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/addn')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/addn')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'quantum_hadamard', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_hadamard')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_hadamard')
+('error:', 'gates.c:1127:12: error: expected expression')
+('error:', "gates.c:1127:4: error: use of undeclared identifier '_OWORD'")
+('error:', "gates.c:1127:21: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:1127:29: error: use of undeclared identifier 'xmmword_409310'")
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'quantum_qec_decode', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_qec_decode')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_qec_decode')
+('error:', 'qec.c:587:1: error: expected expression')
+('error:', 'qec.c:588:1: error: expected expression')
+('error:', 'qec.c:655:42: error: too few arguments to function call, expected 5, have 3')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'quantum_toffoli', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_toffoli')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_toffoli')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'addn_inv', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/addn_inv')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/addn_inv')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'quantum_objcode_put', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_objcode_put')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_objcode_put')
+('error:', "objcode.c:682:7: error: expected ';' after expression")
+('error:', "objcode.c:682:1: error: use of undeclared identifier '_OWORD'")
+('error:', "objcode.c:682:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:714:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:719:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:724:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:725:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:729:14: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:737:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:743:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:744:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:745:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:749:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:754:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:759:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:760:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:769:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:775:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:776:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:777:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:782:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:788:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:789:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:790:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:794:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:799:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:804:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:805:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:816:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:821:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:826:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:827:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:828:24: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:836:9: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:842:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:843:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:844:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:848:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:853:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:858:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:859:8: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:860:16: error: use of undeclared identifier 'v55'")
+('error:', "objcode.c:893:33: error: use of undeclared identifier 'v55'")
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'quantum_swaptheleads', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_swaptheleads')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_swaptheleads')
+('error:', "gates.c:788:36: error: invalid conversion between vector type '__m128i' (vector of 2 'long long' values) and integer type 'unsigned long long' of different size")
+('error:', "gates.c:789:5: error: assigning to '__m128i' (vector of 2 'long long' values) from incompatible type 'long long'")
+('error:', "gates.c:791:5: error: assigning to '__m128i' (vector of 2 'long long' values) from incompatible type 'long long'")
+('error:', "gates.c:792:44: error: use of undeclared identifier 'xmmword_4092C0'")
+('error:', "gates.c:795:42: error: use of undeclared identifier 'xmmword_4092D0'")
+('error:', "gates.c:796:42: error: use of undeclared identifier 'xmmword_4092E0'")
+('error:', "gates.c:799:55: error: invalid conversion between vector type '__m128i' (vector of 2 'long long' values) and integer type 'long long' of different size")
+('error:', "gates.c:801:55: error: invalid conversion between vector type '__m128i' (vector of 2 'long long' values) and integer type 'long long' of different size")
+('error:', "gates.c:802:17: error: member reference base type '__m128d' (vector of 2 'double' values) is not a structure or union")
+('error:', "gates.c:802:36: error: member reference base type '__m128i' (vector of 2 'long long' values) is not a structure or union")
+('error:', "gates.c:802:56: error: member reference base type '__m128i' (vector of 2 'long long' values) is not a structure or union")
+('error:', "gates.c:804:17: error: member reference base type '__m128d' (vector of 2 'double' values) is not a structure or union")
+('error:', "gates.c:804:36: error: member reference base type '__m128i' (vector of 2 'long long' values) is not a structure or union")
+('error:', "gates.c:804:56: error: member reference base type '__m128i' (vector of 2 'long long' values) is not a structure or union")
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'quantum_set_decoherence', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_set_decoherence')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_set_decoherence')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'quantum_decohere', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_decohere')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_decohere')
+('error:', "decoherence.c:586:15: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:588:15: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:590:63: error: use of undeclared identifier 'xmmword_409250'")
+('error:', "decoherence.c:592:37: error: member reference base type '__attribute__((__vector_size__(4 * sizeof(float)))) float' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:592:55: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:595:9: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:608:4: error: assigning to '__m128' (vector of 4 'float' values) from incompatible type 'long long'")
+('error:', "decoherence.c:609:3: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:610:14: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:625:5: error: assigning to '__m128' (vector of 4 'float' values) from incompatible type 'long long'")
+('error:', "decoherence.c:631:5: error: assigning to '__m128' (vector of 4 'float' values) from incompatible type 'long long'")
+('error:', "decoherence.c:639:10: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:642:4: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:655:17: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:656:37: error: member reference base type '__attribute__((__vector_size__(4 * sizeof(float)))) float' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:658:32: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:659:20: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:659:83: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:660:15: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:660:36: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:660:65: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:661:15: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:668:5: error: assigning to '__m128' (vector of 4 'float' values) from incompatible type 'long long'")
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'muxfa_inv', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxfa_inv')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxfa_inv')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'quantum_sigma_x', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_sigma_x')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_sigma_x')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'quantum_cnot_ft', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_cnot_ft')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_cnot_ft')
+('error:', "qec.c:681:8: error: use of undeclared identifier 'quantum_qec_counter_counter'")
+('error:', "qec.c:681:39: error: use of undeclared identifier 'quantum_qec_counter_freq'; did you mean 'quantum_qec_counter'?")
+('error:', "qec.c:683:1: error: use of undeclared identifier 'quantum_qec_counter_counter'")
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'quantum_toffoli_ft', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_toffoli_ft')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_toffoli_ft')
+('error:', "qec.c:738:8: error: use of undeclared identifier 'quantum_qec_counter_counter'")
+('error:', "qec.c:738:39: error: use of undeclared identifier 'quantum_qec_counter_freq'; did you mean 'quantum_qec_counter'?")
+('error:', "qec.c:740:1: error: use of undeclared identifier 'quantum_qec_counter_counter'")
+('error:', 'qec.c:741:44: error: too many arguments to function call, expected 3, have 5')
+('error:', 'qec.c:742:44: error: too many arguments to function call, expected 3, have 5')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'quantum_sigma_z', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_sigma_z')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_sigma_z')
+('error:', "gates.c:690:34: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:690:67: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:691:19: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:691:54: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:691:90: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:692:19: error: member reference base type '_Complex float' is not a structure or union")
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'quantum_bmeasure', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_bmeasure')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_bmeasure')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'muxha', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxha')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxha')
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'quantum_qec_encode', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_qec_encode')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_qec_encode')
+('error:', 'qec.c:572:1: error: expected expression')
+('error:', 'qec.c:573:1: error: expected expression')
+('error:', 'qec.c:647:42: error: too few arguments to function call, expected 5, have 3')
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'muxha_inv', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxha_inv')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxha_inv')
+***************** Next Function ******************
+('func_count:', 22)
+("func_name '", 'quantum_cnot', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_cnot')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/quantum_cnot')
+***************** Next Function ******************
+('func_count:', 23)
+("func_name '", 'muxfa', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxfa')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O3/libquantum-clang-O3-compilation-errors/muxfa')
+******************** ================== ******************** ==================
+Total # fns with errors: 23. Total errors: 108
+******************** ================== error type: occurrences ******************** ==================
+assigning to type A from incompatible type B: 6
+expected ;, (': 1
+expected expression: 5
+invalid conversion between vector type __m128i: 3
+member reference type '__128' is not a structure or union: 11
+member reference type '__128i' is not a structure or union: 4
+member reference type is not a structure or union: 16
+too few arguments to function call: 2
+too many arguments to function call: 2
+use of undeclared identifier: 54
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+assigning to type A from incompatible type B: 2
+expected ;, (': 1
+expected expression: 3
+invalid conversion between vector type __m128i: 1
+member reference type '__128' is not a structure or union: 1
+member reference type '__128i' is not a structure or union: 1
+member reference type is not a structure or union: 4
+too few arguments to function call: 2
+too many arguments to function call: 1
+use of undeclared identifier: 6
+******************** ================== unknown errors ******************** ==================

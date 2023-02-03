@@ -1,0 +1,140 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'global_opt', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/global_opt')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/global_opt')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'flow_cost', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/flow_cost')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/flow_cost')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'price_out_impl', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/price_out_impl')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/price_out_impl')
+('error:', "implicit.c:656:10: error: conflicting types for 'price_out_impl'")
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'suspend_impl', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/suspend_impl')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/suspend_impl')
+('error:', "implicit.c:821:10: error: conflicting types for 'suspend_impl'")
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'read_min', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/read_min')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/read_min')
+('error:', "readmin.c:491:10: error: conflicting types for 'read_min'")
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'primal_update_flow', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_update_flow')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_update_flow')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'refresh_potential', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/refresh_potential')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/refresh_potential')
+('error:', "mcfutil.c:530:10: error: conflicting types for 'refresh_potential'")
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'refresh_neighbour_lists', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/refresh_neighbour_lists')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/refresh_neighbour_lists')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'primal_bea_mpp', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_bea_mpp')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_bea_mpp')
+('error:', "pbeampp.c:581:9: error: conflicting types for 'primal_bea_mpp'")
+('error:', "pbeampp.c:650:7: error: use of undeclared identifier 'basket_0'; did you mean 'basket'?")
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'primal_iminus', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_iminus')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_iminus')
+('error:', "pbla.c:503:10: error: conflicting types for 'primal_iminus'")
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'insert_new_arc', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/insert_new_arc')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/insert_new_arc')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'primal_start_artificial', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_start_artificial')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_start_artificial')
+('error:', "pstart.c:491:10: error: conflicting types for 'primal_start_artificial'")
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'resize_prob', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/resize_prob')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/resize_prob')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'replace_weaker_arc', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/replace_weaker_arc')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/replace_weaker_arc')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'primal_feasible', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_feasible')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_feasible')
+('error:', "mcfutil.c:701:10: error: conflicting types for 'primal_feasible'")
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'write_circulations', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/write_circulations')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/write_circulations')
+('error:', "output.c:492:10: error: conflicting types for 'write_circulations'")
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'sort_basket', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/sort_basket')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/sort_basket')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'getfree', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/getfree')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/getfree')
+('error:', "mcfutil.c:831:10: error: conflicting types for 'getfree'")
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'update_tree', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/update_tree')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/update_tree')
+('error:', "treeup.c:491:7: error: conflicting types for 'update_tree'")
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'primal_net_simplex', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_net_simplex')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/primal_net_simplex')
+('error:', "psimplex.c:492:10: error: conflicting types for 'primal_net_simplex'")
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'bea_is_dual_infeasible', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/bea_is_dual_infeasible')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/bea_is_dual_infeasible')
+***************** Next Function ******************
+('func_count:', 22)
+("func_name '", 'main', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/main')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/main')
+***************** Next Function ******************
+('func_count:', 23)
+("func_name '", 'dual_feasible', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/dual_feasible')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O2/mcf-gcc-O2-compilation-errors/dual_feasible')
+('error:', "mcfutil.c:759:10: error: conflicting types for 'dual_feasible'")
+******************** ================== ******************** ==================
+Total # fns with errors: 23. Total errors: 14
+******************** ================== error type: occurrences ******************** ==================
+conflicting types for a function: 13
+undeclared identifier with suffix '_0': 1
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+conflicting types for a function: 13
+undeclared identifier with suffix '_0': 1
+******************** ================== unknown errors ******************** ==================

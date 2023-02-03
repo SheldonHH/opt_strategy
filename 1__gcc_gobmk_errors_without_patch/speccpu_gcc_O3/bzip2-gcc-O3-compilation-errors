@@ -1,0 +1,85 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'BZ2_bz__AssertH__fail', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_bz__AssertH__fail')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_bz__AssertH__fail')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'BZ2_hbMakeCodeLengths', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_hbMakeCodeLengths')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_hbMakeCodeLengths')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'BZ2_compressBlock', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_compressBlock')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_compressBlock')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'bsPutUInt32', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/bsPutUInt32')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/bsPutUInt32')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'BZ2_hbCreateDecodeTables', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_hbCreateDecodeTables')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_hbCreateDecodeTables')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'BZ2_blockSort', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_blockSort')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_blockSort')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'mainSort', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/mainSort')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/mainSort')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'fallbackSort', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/fallbackSort')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/fallbackSort')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'add_pair_to_block', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/add_pair_to_block')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/add_pair_to_block')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'BZ2_indexIntoF', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_indexIntoF')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_indexIntoF')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'BZ2_hbAssignCodes', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_hbAssignCodes')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_hbAssignCodes')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'BZ2_decompress', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_decompress')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/gcc/O3/bzip2-gcc-O3-compilation-errors/BZ2_decompress')
+******************** ================== ******************** ==================
+Total # fns with errors: 12. Total errors: 149
+******************** ================== error type: occurrences ******************** ==================
+#endif without #if: 1
+conflicting types for a function: 1
+expected 'some symbol': 16
+expected expression: 4
+expression is not assignable: 4
+redefinition of __int16: 1
+unknown type name: 60
+use of undeclared identifier: 54
+variable has incomplete type: 1
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+#endif without #if: 1
+conflicting types for a function: 1
+expected 'some symbol': 6
+expected expression: 1
+expression is not assignable: 1
+redefinition of __int16: 1
+unknown type name: 7
+use of undeclared identifier: 6
+variable has incomplete type: 1
+******************** ================== unknown errors ******************** ==================

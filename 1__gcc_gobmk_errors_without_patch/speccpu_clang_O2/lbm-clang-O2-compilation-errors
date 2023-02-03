@@ -1,0 +1,114 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'LBM_showGridStatistics', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_showGridStatistics')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_showGridStatistics')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'LBM_swapGrids', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_swapGrids')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_swapGrids')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'main', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/main')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/main')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'LBM_initializeSpecialCellsForChannel', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_initializeSpecialCellsForChannel')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'LBM_storeVelocityField', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_storeVelocityField')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_storeVelocityField')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'LBM_loadObstacleFile', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_loadObstacleFile')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_loadObstacleFile')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'LBM_handleInOutFlow', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_handleInOutFlow')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_handleInOutFlow')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'MAIN_parseCommandLine', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_parseCommandLine')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_parseCommandLine')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'LBM_freeGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_freeGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_freeGrid')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'MAIN_finalize', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_finalize')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_finalize')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'LBM_initializeSpecialCellsForLDC', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_initializeSpecialCellsForLDC')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'LBM_compareVelocityField', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_compareVelocityField')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_compareVelocityField')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'LBM_performStreamCollide', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_performStreamCollide')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_performStreamCollide')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'LBM_allocateGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_allocateGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_allocateGrid')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'MAIN_printInfo', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_printInfo')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_printInfo')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'MAIN_startClock', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_startClock')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_startClock')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'MAIN_initialize', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_initialize')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_initialize')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'MAIN_stopClock', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_stopClock')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/MAIN_stopClock')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'LBM_initializeGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_initializeGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O2/lbm-clang-O2-compilation-errors/LBM_initializeGrid')
+******************** ================== ******************** ==================
+Total # fns with errors: 19. Total errors: 1132
+******************** ================== error type: occurrences ******************** ==================
+expected 'some symbol': 66
+expected expression: 24
+expression is not assignable: 4
+redefinition of __int64: 1
+unknown type name: 20
+use of undeclared identifier: 1016
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+expected 'some symbol': 4
+expected expression: 3
+expression is not assignable: 4
+redefinition of __int64: 1
+unknown type name: 6
+use of undeclared identifier: 7
+******************** ================== unknown errors ******************** ==================

@@ -1,0 +1,182 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'LBM_showGridStatistics', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_showGridStatistics')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_showGridStatistics')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'LBM_swapGrids', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_swapGrids')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_swapGrids')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'main', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/main')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/main')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'storeValue', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/storeValue')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/storeValue')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'LBM_initializeSpecialCellsForChannel', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForChannel/src/lbm.c:164:22: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForChannel/src/lbm.c:164:14: error: use of undeclared identifier '_DWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForChannel/src/lbm.c:168:24: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForChannel/src/lbm.c:168:16: error: use of undeclared identifier '_DWORD'; did you mean 'LODWORD'?")
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'LBM_storeVelocityField', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_storeVelocityField')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_storeVelocityField')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'LBM_loadObstacleFile', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_loadObstacleFile')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_loadObstacleFile')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_loadObstacleFile/src/lbm.c:114:22: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_loadObstacleFile/src/lbm.c:114:14: error: use of undeclared identifier '_DWORD'")
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'LBM_handleInOutFlow', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_handleInOutFlow')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_handleInOutFlow')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:473:53: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:473:45: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:474:60: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:474:52: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:480:54: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:480:46: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:481:61: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:481:53: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:488:54: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:488:46: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:489:61: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:489:53: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:494:54: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:494:46: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:495:61: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:495:53: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:502:54: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:502:46: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:503:61: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:503:53: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:508:54: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:508:46: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:509:61: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_handleInOutFlow/src/lbm.c:509:53: error: use of undeclared identifier '_QWORD'")
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'MAIN_parseCommandLine', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_parseCommandLine')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_parseCommandLine')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/MAIN_parseCommandLine/src/main.c:64:3: error: must use 'struct' tag to refer to type 'stat'")
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'LBM_freeGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_freeGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_freeGrid')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'MAIN_finalize', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_finalize')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_finalize')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'LBM_initializeSpecialCellsForLDC', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForLDC/src/lbm.c:135:24: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForLDC/src/lbm.c:135:16: error: use of undeclared identifier '_DWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForLDC/src/lbm.c:141:22: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeSpecialCellsForLDC/src/lbm.c:141:14: error: use of undeclared identifier '_DWORD'")
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'LBM_compareVelocityField', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_compareVelocityField')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_compareVelocityField')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'LBM_performStreamCollide', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_performStreamCollide')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_performStreamCollide')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:280:57: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:280:49: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:281:64: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:281:56: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:289:57: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:289:49: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:290:64: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:290:56: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:300:59: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:300:51: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:301:66: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:301:58: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:307:59: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:307:51: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:308:66: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:308:58: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:318:59: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:318:51: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:319:66: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:319:58: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:325:59: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:325:51: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:326:66: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_performStreamCollide/src/lbm.c:326:58: error: use of undeclared identifier '_QWORD'")
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'LBM_allocateGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_allocateGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_allocateGrid')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'MAIN_printInfo', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_printInfo')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_printInfo')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'MAIN_startClock', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_startClock')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_startClock')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'MAIN_initialize', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_initialize')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_initialize')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'MAIN_stopClock', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_stopClock')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/MAIN_stopClock')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'loadValue', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/loadValue')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/loadValue')
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'LBM_initializeGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_initializeGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/clang/O0/lbm-clang-O0-compilation-errors/LBM_initializeGrid')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/clang/O0/lbm-clang-O0/LBM_initializeGrid/src/lbm.c:77:28: error: expression is not assignable')
+******************** ================== ******************** ==================
+Total # fns with errors: 21. Total errors: 62
+******************** ================== error type: occurrences ******************** ==================
+expected expression: 29
+expression is not assignable: 1
+must use '(struct|union|enum)' tag to refer to type: 1
+use of undeclared identifier: 29
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+expected expression: 5
+expression is not assignable: 1
+must use '(struct|union|enum)' tag to refer to type: 1
+use of undeclared identifier: 5
+******************** ================== unknown errors ******************** ==================

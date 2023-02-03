@@ -1,0 +1,156 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'quantum_get_decoherence', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_get_decoherence')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_get_decoherence')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'madd_inv', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd_inv')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd_inv')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'quantum_qec_get_status', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_get_status')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_get_status')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'test_sum', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/test_sum')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/test_sum')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'quantum_hadamard', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_hadamard')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_hadamard')
+('error:', 'gates.c:1127:12: error: expected expression')
+('error:', "gates.c:1127:4: error: use of undeclared identifier '_OWORD'")
+('error:', "gates.c:1127:21: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:1127:29: error: use of undeclared identifier 'xmmword_4077C0'")
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'quantum_toffoli', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_toffoli')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_toffoli')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'quantum_objcode_put', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_objcode_put')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_objcode_put')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'quantum_swaptheleads', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_swaptheleads')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_swaptheleads')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'quantum_set_decoherence', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_set_decoherence')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_set_decoherence')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'quantum_decohere', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_decohere')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_decohere')
+('error:', "decoherence.c:616:5: error: assigning to '__m128' (vector of 4 'float' values) from incompatible type 'long long'")
+('error:', "decoherence.c:623:5: error: assigning to '__m128' (vector of 4 'float' values) from incompatible type 'long long'")
+('error:', "decoherence.c:630:4: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:630:22: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:633:17: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:634:10: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:635:37: error: member reference base type '__attribute__((__vector_size__(4 * sizeof(float)))) float' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:637:32: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:638:20: error: member reference base type '__m128' (vector of 4 'float' values) is not a structure or union")
+('error:', "decoherence.c:638:49: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:639:71: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:640:15: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "decoherence.c:641:15: error: member reference base type '_Complex float' is not a structure or union")
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'quantum_qec_set_status', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_set_status')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_set_status')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'muxfa_inv', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa_inv')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa_inv')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'quantum_sigma_x', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_x')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_x')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'quantum_sigma_z', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_z')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_z')
+('error:', "gates.c:689:34: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:689:67: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:690:19: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:690:54: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:690:90: error: member reference base type '_Complex float' is not a structure or union")
+('error:', "gates.c:691:19: error: member reference base type '_Complex float' is not a structure or union")
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'quantum_bmeasure', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_bmeasure')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_bmeasure')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'quantum_qec_counter', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_counter')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_counter')
+('error:', "qec.c:618:8: error: use of undeclared identifier 'quantum_qec_counter_counter'; did you mean 'quantum_qec_counter'?")
+('error:', "qec.c:620:1: error: use of undeclared identifier 'quantum_qec_counter_counter'")
+('error:', "qec.c:630:1: error: use of undeclared identifier 'quantum_qec_counter_freq'")
+('error:', "qec.c:631:6: error: use of undeclared identifier 'quantum_qec_counter_counter'; did you mean 'quantum_qec_counter'?")
+('error:', "qec.c:631:37: error: use of undeclared identifier 'quantum_qec_counter_freq'; did you mean 'quantum_qec_counter'?")
+('error:', "qec.c:633:1: error: use of undeclared identifier 'quantum_qec_counter_counter'")
+('error:', "qec.c:637:8: error: use of undeclared identifier 'quantum_qec_counter_counter'; did you mean 'quantum_qec_counter'?")
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'muxha', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'muxha_inv', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha_inv')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha_inv')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'quantum_cnot', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_cnot')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_cnot')
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'madd', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'muxfa', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa')
+******************** ================== ******************** ==================
+Total # fns with errors: 21. Total errors: 34
+******************** ================== error type: occurrences ******************** ==================
+assigning to type A from incompatible type B: 2
+expected expression: 1
+member reference type '__128' is not a structure or union: 5
+member reference type is not a structure or union: 13
+use of undeclared identifier: 9
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+assigning to type A from incompatible type B: 1
+expected expression: 1
+member reference type '__128' is not a structure or union: 1
+member reference type is not a structure or union: 3
+use of undeclared identifier: 2
+******************** ================== unknown errors ******************** ==================

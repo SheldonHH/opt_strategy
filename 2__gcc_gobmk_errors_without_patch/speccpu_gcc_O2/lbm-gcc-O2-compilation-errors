@@ -1,0 +1,160 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'LBM_showGridStatistics', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_showGridStatistics')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_showGridStatistics')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_showGridStatistics/src/lbm.c:450:3: error: unknown type name '__int64'; did you mean '__int64_t'?")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_showGridStatistics/src/lbm.c:452:3: error: unknown type name '__int64'; did you mean '__int64_t'?")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_showGridStatistics/src/lbm.c:522:26: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_showGridStatistics/src/lbm.c:522:18: error: use of undeclared identifier '_DWORD'")
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'LBM_swapGrids', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_swapGrids')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_swapGrids')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'main', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/main')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/main')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/main/src/main.c:27:3: error: unknown type name '__int64'; did you mean '__int64_t'?")
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'LBM_initializeSpecialCellsForChannel', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_initializeSpecialCellsForChannel/src/lbm.c:155:3: error: unknown type name '__int64'; did you mean '__int64_t'?")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_initializeSpecialCellsForChannel/src/lbm.c:175:28: error: expression is not assignable')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'LBM_storeVelocityField', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_storeVelocityField')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_storeVelocityField')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'LBM_loadObstacleFile', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_loadObstacleFile')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_loadObstacleFile')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_loadObstacleFile/src/lbm.c:117:30: error: expression is not assignable')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'LBM_handleInOutFlow', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_handleInOutFlow')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_handleInOutFlow')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'MAIN_parseCommandLine', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_parseCommandLine')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_parseCommandLine')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_parseCommandLine/src/main.c:67:3: error: must use 'struct' tag to refer to type 'stat'")
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'LBM_freeGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_freeGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_freeGrid')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'MAIN_finalize', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_finalize')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_finalize')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'LBM_initializeSpecialCellsForLDC', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_initializeSpecialCellsForLDC/src/lbm.c:140:32: error: expression is not assignable')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_initializeSpecialCellsForLDC/src/lbm.c:150:26: error: expression is not assignable')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'LBM_compareVelocityField', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_compareVelocityField')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_compareVelocityField')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'LBM_performStreamCollide', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_performStreamCollide')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_performStreamCollide')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_performStreamCollide/src/lbm.c:231:24: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_performStreamCollide/src/lbm.c:231:16: error: use of undeclared identifier '_DWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_performStreamCollide/src/lbm.c:330:20: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_performStreamCollide/src/lbm.c:330:12: error: use of undeclared identifier '_QWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_performStreamCollide/src/lbm.c:330:39: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_performStreamCollide/src/lbm.c:330:31: error: use of undeclared identifier '_QWORD'")
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'LBM_allocateGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_allocateGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_allocateGrid')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'MAIN_printInfo', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_printInfo')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_printInfo')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:106:3: error: unknown type name '__int64'; did you mean '__int64_t'?")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:107:3: error: use of undeclared identifier '__m128i'")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:113:3: error: use of undeclared identifier 'si128'")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:113:35: error: unknown type name '__m128i'")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:113:46: error: use of undeclared identifier 'xmmword_403400'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:114:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:114:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:115:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:115:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:116:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:116:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:120:15: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:120:6: error: use of undeclared identifier '__m128i'")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:120:39: error: use of undeclared identifier 'si128'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:121:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:121:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:122:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:122:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:123:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:123:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:125:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:125:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:126:14: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:126:6: error: use of undeclared identifier '_OWORD'")
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:127:15: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:127:6: error: use of undeclared identifier '__m128i'")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:127:63: error: unknown type name '__m128i'")
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/MAIN_printInfo/src/main.c:127:74: error: use of undeclared identifier 'xmmword_403410'")
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'MAIN_startClock', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_startClock')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_startClock')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'MAIN_initialize', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_initialize')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_initialize')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'MAIN_stopClock', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_stopClock')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/MAIN_stopClock')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'LBM_initializeGrid', "'")
+('err_func:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_initializeGrid')
+('err_funcfile:', '/data/maliha/decompilation/data/error_without_patch/ida/speccpu/gcc/O2/lbm-gcc-O2-compilation-errors/LBM_initializeGrid')
+('error:', '/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_initializeGrid/src/lbm.c:59:18: error: expected expression')
+('error:', "/home/yanlin/my-projects/decompilation/source_code/recompiled/IDA/speccpu/gcc/O2/lbm-gcc-O2/LBM_initializeGrid/src/lbm.c:59:10: error: use of undeclared identifier '_DWORD'")
+******************** ================== ******************** ==================
+Total # fns with errors: 19. Total errors: 48
+******************** ================== error type: occurrences ******************** ==================
+expected expression: 15
+expression is not assignable: 4
+must use '(struct|union|enum)' tag to refer to type: 1
+unknown type name: 7
+use of undeclared identifier: 20
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+expected expression: 4
+expression is not assignable: 3
+must use '(struct|union|enum)' tag to refer to type: 1
+unknown type name: 4
+use of undeclared identifier: 4
+******************** ================== unknown errors ******************** ==================

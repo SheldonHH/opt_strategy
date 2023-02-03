@@ -1,0 +1,128 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'test_sum', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/test_sum')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/test_sum')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'madd_inv', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd_inv')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd_inv')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'quantum_qec_counter', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_counter')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_counter')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'quantum_decohere', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_decohere')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_decohere')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'quantum_set_decoherence', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_set_decoherence')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_set_decoherence')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'quantum_hadamard', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_hadamard')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_hadamard')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'quantum_bmeasure', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_bmeasure')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_bmeasure')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'muxfa', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'quantum_qec_get_status', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_get_status')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_get_status')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'muxha_inv', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha_inv')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha_inv')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'quantum_toffoli', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_toffoli')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_toffoli')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'quantum_swaptheleads', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_swaptheleads')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_swaptheleads')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'quantum_sigma_z', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_z')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_z')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'quantum_cnot', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_cnot')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_cnot')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'quantum_sigma_x', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_x')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_sigma_x')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'madd', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/madd')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'muxha', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxha')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'quantum_get_decoherence', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_get_decoherence')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_get_decoherence')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'quantum_qec_set_status', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_set_status')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_qec_set_status')
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'quantum_objcode_put', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_objcode_put')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/quantum_objcode_put')
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'muxfa_inv', "'")
+('err_func:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa_inv')
+('err_funcfile:', '/data/maliha/decompilation/data/error/ida/speccpu/clang/O1/libquantum-clang-O1-compilation-errors/muxfa_inv')
+******************** ================== ******************** ==================
+Total # fns with errors: 21. Total errors: 124
+******************** ================== error type: occurrences ******************** ==================
+conflicting types for a function: 1
+expected 'some symbol': 21
+expected expression: 3
+member reference type is not a structure or union: 7
+redefinition of __int64: 2
+redefinition of __int8: 4
+unknown type name: 17
+use of undeclared identifier: 56
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+conflicting types for a function: 1
+expected 'some symbol': 7
+expected expression: 1
+member reference type is not a structure or union: 2
+redefinition of __int64: 2
+redefinition of __int8: 1
+unknown type name: 7
+use of undeclared identifier: 9
+******************** ================== unknown errors ******************** ==================

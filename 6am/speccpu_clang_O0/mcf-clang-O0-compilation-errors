@@ -1,0 +1,210 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'global_opt', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/global_opt')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/global_opt')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'flow_cost', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/flow_cost')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/flow_cost')
+('error:', "mcfutil.c:597:18: error: expected identifier or '('")
+('error:', "mcfutil.c:597:31: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:597:31: error: expected expression')
+('error:', "mcfutil.c:600:19: error: expected identifier or '('")
+('error:', "mcfutil.c:600:37: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:600:37: error: expected expression')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'flow_org_cost', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/flow_org_cost')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/flow_org_cost')
+('error:', "mcfutil.c:656:18: error: expected identifier or '('")
+('error:', "mcfutil.c:656:31: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:656:31: error: expected expression')
+('error:', "mcfutil.c:659:19: error: expected identifier or '('")
+('error:', "mcfutil.c:659:37: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:659:37: error: expected expression')
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'price_out_impl', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/price_out_impl')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/price_out_impl')
+('error:', "implicit.c:656:10: error: conflicting types for 'price_out_impl'")
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'suspend_impl', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/suspend_impl')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/suspend_impl')
+('error:', "implicit.c:821:10: error: conflicting types for 'suspend_impl'")
+('error:', "implicit.c:839:18: error: expected identifier or '('")
+('error:', "implicit.c:839:29: error: expected ';' in 'for' statement specifier")
+('error:', 'implicit.c:839:29: error: expected expression')
+('error:', 'implicit.c:850:30: error: expected expression')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'read_min', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/read_min')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/read_min')
+('error:', "readmin.c:491:10: error: conflicting types for 'read_min'")
+('error:', "readmin.c:550:13: error: expected identifier or '('")
+('error:', "readmin.c:551:12: error: expected identifier or '('")
+('error:', 'readmin.c:572:8: error: expected expression')
+('error:', "readmin.c:594:12: error: expected identifier or '('")
+('error:', 'readmin.c:613:25: error: expected expression')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'primal_update_flow', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_update_flow')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_update_flow')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'refresh_potential', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/refresh_potential')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/refresh_potential')
+('error:', "mcfutil.c:530:10: error: conflicting types for 'refresh_potential'")
+('error:', "mcfutil.c:540:13: error: expected identifier or '('")
+('error:', 'mcfutil.c:543:9: error: expected expression')
+('error:', 'mcfutil.c:545:9: error: expected expression')
+('error:', "mcfutil.c:557:13: error: expected identifier or '('")
+('error:', "mcfutil.c:559:19: error: expected identifier or '('")
+('error:', "mcfutil.c:559:26: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:559:38: error: expected expression')
+('error:', "mcfutil.c:559:38: error: expected ')'")
+('error:', "mcfutil.c:564:13: error: expected identifier or '('")
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'refresh_neighbour_lists', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/refresh_neighbour_lists')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/refresh_neighbour_lists')
+('error:', "mcfutil.c:497:13: error: expected identifier or '('")
+('error:', 'mcfutil.c:499:9: error: expected expression')
+('error:', "mcfutil.c:505:12: error: expected identifier or '('")
+('error:', 'mcfutil.c:507:9: error: expected expression')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'primal_bea_mpp', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_bea_mpp')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_bea_mpp')
+('error:', "pbeampp.c:581:9: error: conflicting types for 'primal_bea_mpp'")
+('error:', "pbeampp.c:598:12: error: use of undeclared identifier 'basket_0'; did you mean 'basket'?")
+('error:', "pbeampp.c:615:12: error: expected identifier or '('")
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'primal_iminus', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_iminus')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_iminus')
+('error:', "pbla.c:503:10: error: conflicting types for 'primal_iminus'")
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'insert_new_arc', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/insert_new_arc')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/insert_new_arc')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'primal_start_artificial', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_start_artificial')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_start_artificial')
+('error:', "pstart.c:491:10: error: conflicting types for 'primal_start_artificial'")
+('error:', "pstart.c:502:13: error: expected identifier or '('")
+('error:', "pstart.c:513:18: error: expected identifier or '('")
+('error:', "pstart.c:513:31: error: expected ';' in 'for' statement specifier")
+('error:', 'pstart.c:513:31: error: expected expression')
+('error:', 'pstart.c:520:9: error: expected expression')
+('error:', 'pstart.c:525:17: error: expected expression')
+('error:', 'pstart.c:526:22: error: expected expression')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'resize_prob', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/resize_prob')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/resize_prob')
+('error:', "implicit.c:502:12: error: expected identifier or '('")
+('error:', 'implicit.c:503:6: error: expected expression')
+('error:', "implicit.c:509:13: error: expected identifier or '('")
+('error:', 'implicit.c:511:9: error: expected expression')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'replace_weaker_arc', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/replace_weaker_arc')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/replace_weaker_arc')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'primal_feasible', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_feasible')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_feasible')
+('error:', "mcfutil.c:701:10: error: conflicting types for 'primal_feasible'")
+('error:', "mcfutil.c:714:19: error: expected identifier or '('")
+('error:', "mcfutil.c:714:37: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:714:37: error: expected expression')
+('error:', "mcfutil.c:716:12: error: expected identifier or '('")
+('error:', 'mcfutil.c:718:6: error: expected expression')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'write_circulations', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/write_circulations')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/write_circulations')
+('error:', "output.c:492:10: error: conflicting types for 'write_circulations'")
+('error:', "output.c:510:12: error: expected identifier or '('")
+('error:', 'output.c:511:9: error: expected expression')
+('error:', 'output.c:513:6: error: expected expression')
+('error:', 'output.c:524:1: error: expected expression')
+('error:', 'output.c:526:1: error: expected expression')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'sort_basket', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/sort_basket')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/sort_basket')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'getfree', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/getfree')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/getfree')
+('error:', "mcfutil.c:831:10: error: conflicting types for 'getfree'")
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'update_tree', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/update_tree')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/update_tree')
+('error:', "treeup.c:491:7: error: conflicting types for 'update_tree'")
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'primal_net_simplex', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_net_simplex')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/primal_net_simplex')
+('error:', "psimplex.c:492:10: error: conflicting types for 'primal_net_simplex'")
+***************** Next Function ******************
+('func_count:', 22)
+("func_name '", 'bea_is_dual_infeasible', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/bea_is_dual_infeasible')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/bea_is_dual_infeasible')
+***************** Next Function ******************
+('func_count:', 23)
+("func_name '", 'main', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/main')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/main')
+***************** Next Function ******************
+('func_count:', 24)
+("func_name '", 'dual_feasible', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/dual_feasible')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O0/mcf-clang-O0-compilation-errors/dual_feasible')
+('error:', "mcfutil.c:759:10: error: conflicting types for 'dual_feasible'")
+('error:', "mcfutil.c:765:18: error: expected identifier or '('")
+('error:', "mcfutil.c:765:39: error: expected ';' in 'for' statement specifier")
+('error:', 'mcfutil.c:767:6: error: expected expression')
+******************** ================== ******************** ==================
+Total # fns with errors: 24. Total errors: 73
+******************** ================== error type: occurrences ******************** ==================
+conflicting types for a function: 13
+expected ;, (': 10
+expected expression: 26
+expected identifier or '(': 23
+undeclared identifier with suffix '_0': 1
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+conflicting types for a function: 13
+expected ;, (': 7
+expected expression: 11
+expected identifier or '(': 12
+undeclared identifier with suffix '_0': 1
+******************** ================== unknown errors ******************** ==================
