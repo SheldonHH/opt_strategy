@@ -53,7 +53,8 @@ class pattern():
 	(r"\n*((.+?)\d+:\d+:) error: statement requires expression of scalar type", "statement requires expression of scalar type"),
 	(r"\n*((.+?)\d+:\d+:) error: static declaration of [a-zA-Z0-9\s\_\[\]\*\(\)\'\,\"\;\&\.\-\>\:\/]* follows non-static declaration", "static declaration of 'A' follows non-static declaration"),
 	#### + IDA Patterns
-	(r"\n*((.+?):\d+:\d+:) error: use of undeclared identifier '(_OWORD)'\n(\s*?.+?)\n","undeclared identifier OWORD"),
+	(r"\n*((.+?):\d+:\d+:) error: use of undeclared identifier '(_OWORD)'\n(\s*?.+?)\n", "use of undeclared identifier"),
+	# (r"\n*((.+?):\d+:\d+:) error: use of undeclared identifier '(_OWORD)'\n(\s*?.+?)\n","undeclared identifier OWORD"),
 	(r"\n*(.+?):\d+:\d+: error: unknown type name (?:\xe2\x80\x98|')(.*?va_list.*?)(?:\xe2\x80\x99|').*?\n(\s*?.+?)\n","unknown type name va_list"),
 	(r"\n*((.+?):\d+:\d+:) error: (\xe2\x80\x98((.+)_\d*)\xe2\x80\x99 undeclared \(first use in this function\)|use of undeclared identifier '((.+?)_\d+)')(?:; did you mean (?:.+?)|)\n  rror: use of undeclared identifier '((?:off|dword|qword|asc|unk)_[0-9,A-F]+|(.+))'.*?\n(\s*?.+?)\n","undeclared identifiers datatypes"),
 	(r"\n*((.+?)\d+:\d+:) error: expected \'","expected apostrophe near declaration specifiers"),
