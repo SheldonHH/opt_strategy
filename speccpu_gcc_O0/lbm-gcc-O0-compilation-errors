@@ -1,0 +1,143 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'LBM_allocateGrid', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_allocateGrid')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_allocateGrid')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'LBM_showGridStatistics', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_showGridStatistics')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_showGridStatistics')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'MAIN_printInfo', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_printInfo')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_printInfo')
+('error:', 'main.c:573:12: error: expected expression')
+('error:', "main.c:573:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:574:12: error: expected expression')
+('error:', "main.c:574:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:575:12: error: expected expression')
+('error:', "main.c:575:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:576:12: error: expected expression')
+('error:', "main.c:576:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:577:12: error: expected expression')
+('error:', "main.c:577:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:578:12: error: expected expression')
+('error:', "main.c:578:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:581:12: error: expected expression')
+('error:', "main.c:581:4: error: use of undeclared identifier '_OWORD'")
+('error:', 'main.c:583:12: error: expected expression')
+('error:', "main.c:583:4: error: use of undeclared identifier '_OWORD'")
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'LBM_storeVelocityField', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_storeVelocityField')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_storeVelocityField')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'storeValue', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/storeValue')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/storeValue')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'MAIN_initialize', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_initialize')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_initialize')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'LBM_swapGrids', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_swapGrids')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_swapGrids')
+('error:', "lbm.c:551:7: error: variable has incomplete type 'void'")
+('error:', "lbm.c:551:10: error: expected ';' after top level declarator")
+('error:', "lbm.c:551:11: error: expected identifier or '('")
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'LBM_initializeSpecialCellsForChannel', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_initializeSpecialCellsForChannel')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'MAIN_startClock', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_startClock')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_startClock')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'LBM_handleInOutFlow', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_handleInOutFlow')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_handleInOutFlow')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'LBM_initializeGrid', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_initializeGrid')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_initializeGrid')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'loadValue', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/loadValue')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/loadValue')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'MAIN_parseCommandLine', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_parseCommandLine')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_parseCommandLine')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'MAIN_finalize', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_finalize')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_finalize')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'MAIN_stopClock', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_stopClock')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/MAIN_stopClock')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'LBM_compareVelocityField', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_compareVelocityField')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_compareVelocityField')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'LBM_performStreamCollide', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_performStreamCollide')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_performStreamCollide')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'LBM_initializeSpecialCellsForLDC', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_initializeSpecialCellsForLDC')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'LBM_loadObstacleFile', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_loadObstacleFile')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_loadObstacleFile')
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'main', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/main')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/main')
+('error:', 'main.c:502:5: error: expected expression')
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'LBM_freeGrid', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_freeGrid')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/gcc/O0/lbm-gcc-O0-compilation-errors/LBM_freeGrid')
+******************** ================== ******************** ==================
+Total # fns with errors: 21. Total errors: 21
+******************** ================== error type: occurrences ******************** ==================
+expected ;, (': 1
+expected expression: 9
+expected identifier or '(': 1
+use of undeclared identifier: 8
+variable has incomplete type 'void': 1
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+expected ;, (': 1
+expected expression: 2
+expected identifier or '(': 1
+use of undeclared identifier: 1
+variable has incomplete type 'void': 1
+******************** ================== unknown errors ******************** ==================

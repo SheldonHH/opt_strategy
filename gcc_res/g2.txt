@@ -1,0 +1,12 @@
+Total # fns with errors: 104. Total errors: 185
+******************** ================== error type: occurrences ******************** ==================
+array type is not assignable: 16
+conflicting types for a function: 5
+expected expression: 6
+member reference type '__128i' is not a structure or union: 36
+passing sth to parameter of incompatible type: 14
+read-only variable is not assignable: 2
+subscripted value is not an array, pointer, or vector: 3
+too many arguments to function call: 9
+typecasting pointer: 5
+use of undeclared identifier: 87

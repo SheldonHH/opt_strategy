@@ -1,0 +1,124 @@
+maliha print
+***************** Next Function ******************
+('func_count:', 1)
+("func_name '", 'LBM_allocateGrid', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_allocateGrid')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_allocateGrid')
+***************** Next Function ******************
+('func_count:', 2)
+("func_name '", 'LBM_showGridStatistics', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_showGridStatistics')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_showGridStatistics')
+***************** Next Function ******************
+('func_count:', 3)
+("func_name '", 'MAIN_printInfo', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_printInfo')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_printInfo')
+('error:', "main.c:573:9: error: use of undeclared identifier 'xmmword_403380'")
+('error:', "main.c:574:9: error: use of undeclared identifier 'xmmword_403370'")
+('error:', "main.c:575:9: error: use of undeclared identifier 'xmmword_403360'")
+('error:', "main.c:576:9: error: use of undeclared identifier 'xmmword_403350'")
+('error:', "main.c:577:9: error: use of undeclared identifier 'xmmword_403340'")
+('error:', "main.c:578:9: error: use of undeclared identifier 'xmmword_403330'")
+('error:', "main.c:580:9: error: use of undeclared identifier 'xmmword_4033B0'")
+('error:', "main.c:581:9: error: use of undeclared identifier 'xmmword_4033A0'")
+('error:', "main.c:582:9: error: use of undeclared identifier 'xmmword_403390'")
+***************** Next Function ******************
+('func_count:', 4)
+("func_name '", 'LBM_storeVelocityField', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_storeVelocityField')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_storeVelocityField')
+***************** Next Function ******************
+('func_count:', 5)
+("func_name '", 'storeValue', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/storeValue')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/storeValue')
+***************** Next Function ******************
+('func_count:', 6)
+("func_name '", 'MAIN_initialize', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_initialize')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_initialize')
+***************** Next Function ******************
+('func_count:', 7)
+("func_name '", 'LBM_swapGrids', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_swapGrids')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_swapGrids')
+***************** Next Function ******************
+('func_count:', 8)
+("func_name '", 'LBM_initializeSpecialCellsForChannel', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_initializeSpecialCellsForChannel')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_initializeSpecialCellsForChannel')
+***************** Next Function ******************
+('func_count:', 9)
+("func_name '", 'MAIN_startClock', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_startClock')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_startClock')
+***************** Next Function ******************
+('func_count:', 10)
+("func_name '", 'LBM_handleInOutFlow', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_handleInOutFlow')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_handleInOutFlow')
+***************** Next Function ******************
+('func_count:', 11)
+("func_name '", 'LBM_initializeGrid', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_initializeGrid')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_initializeGrid')
+***************** Next Function ******************
+('func_count:', 12)
+("func_name '", 'loadValue', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/loadValue')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/loadValue')
+***************** Next Function ******************
+('func_count:', 13)
+("func_name '", 'MAIN_parseCommandLine', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_parseCommandLine')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_parseCommandLine')
+('error:', 'clang: error: linker command failed with exit code 1 (use -v to see invocation)')
+***************** Next Function ******************
+('func_count:', 14)
+("func_name '", 'MAIN_finalize', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_finalize')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_finalize')
+***************** Next Function ******************
+('func_count:', 15)
+("func_name '", 'MAIN_stopClock', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_stopClock')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/MAIN_stopClock')
+***************** Next Function ******************
+('func_count:', 16)
+("func_name '", 'LBM_compareVelocityField', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_compareVelocityField')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_compareVelocityField')
+***************** Next Function ******************
+('func_count:', 17)
+("func_name '", 'LBM_performStreamCollide', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_performStreamCollide')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_performStreamCollide')
+***************** Next Function ******************
+('func_count:', 18)
+("func_name '", 'LBM_initializeSpecialCellsForLDC', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_initializeSpecialCellsForLDC')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_initializeSpecialCellsForLDC')
+***************** Next Function ******************
+('func_count:', 19)
+("func_name '", 'LBM_loadObstacleFile', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_loadObstacleFile')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_loadObstacleFile')
+***************** Next Function ******************
+('func_count:', 20)
+("func_name '", 'main', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/main')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/main')
+***************** Next Function ******************
+('func_count:', 21)
+("func_name '", 'LBM_freeGrid', "'")
+('err_func:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_freeGrid')
+('err_funcfile:', '/data/0202_patch/ida/speccpu/clang/O1/lbm-clang-O1-compilation-errors/LBM_freeGrid')
+******************** ================== ******************** ==================
+Total # fns with errors: 21. Total errors: 10
+******************** ================== error type: occurrences ******************** ==================
+use of undeclared identifier: 9
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+use of undeclared identifier: 1
+******************** ================== unknown errors ******************** ==================

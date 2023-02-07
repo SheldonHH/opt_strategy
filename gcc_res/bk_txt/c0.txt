@@ -1,0 +1,84 @@
+Total # fns with errors: 5219. Total errors: 29315
+******************** ================== error type: occurrences ******************** ==================
+ISO C requires a named parameter before: 9
+a parameter list without types is only allowed in a function definition: 2
+address of overloaded function 'A' does not match required type 'B': 1
+array type is not assignable: 5
+assigning to type A from incompatible type B: 32
+called object type '<dependent type>' is not a function or function pointer: 115
+cannot assign to variable: 4
+cannot combine with previous declaration specifier: 2
+conflicting types for a function: 80
+expected ;, (': 727
+expected apostrophe near declaration specifiers: 6
+expected expression: 1878
+expected identifier or '(': 531
+incomplete definition of type: 93
+inline can only appear on functions: 1
+invalid A at end of declaration; did you mean B?: 1
+invalid conversion between vector type __m128i: 1
+invalid operands to binary expression: 107
+member reference type is not a structure or union: 96
+must use 'struct' tag to refer to type: 4
+must use 'union' tag to refer to type: 1929
+no member named ?: 7
+passing sth to parameter of incompatible type: 4
+redefinition of label: 7
+redefinition of parameter: 1
+statement requires expression of scalar type: 125
+subscript of pointer to function type: 3
+subscript of pointer to incomplete type: 18
+subscripted value is not an array, pointer, or vector: 12
+too few arguments to function call: 1
+too many arguments provided to function-like macro invocation: 95
+too many arguments to function call: 26
+type 'A' is not assignable: 2
+typecasting pointer: 2719
+unknown error: 4
+unknown type name: 869
+unknown type name with suffix '_0': 71
+use of undeclared identifier: 19698
+variable has incomplete type: 2
+variable has incomplete type 'void': 3
+******************** ================== error distribution ******************** ==================
+******************** ================== error type: func count ******************** ==================
+ISO C requires a named parameter before: 9
+a parameter list without types is only allowed in a function definition: 1
+address of overloaded function 'A' does not match required type 'B': 1
+array type is not assignable: 3
+assigning to type A from incompatible type B: 27
+called object type '<dependent type>' is not a function or function pointer: 52
+cannot assign to variable: 2
+cannot combine with previous declaration specifier: 2
+conflicting types for a function: 80
+expected ;, (': 146
+expected apostrophe near declaration specifiers: 5
+expected expression: 575
+expected identifier or '(': 253
+incomplete definition of type: 13
+inline can only appear on functions: 1
+invalid A at end of declaration; did you mean B?: 1
+invalid conversion between vector type __m128i: 1
+invalid operands to binary expression: 60
+member reference type is not a structure or union: 14
+must use 'struct' tag to refer to type: 2
+must use 'union' tag to refer to type: 361
+no member named ?: 3
+passing sth to parameter of incompatible type: 4
+redefinition of label: 4
+redefinition of parameter: 1
+statement requires expression of scalar type: 62
+subscript of pointer to function type: 2
+subscript of pointer to incomplete type: 12
+subscripted value is not an array, pointer, or vector: 6
+too few arguments to function call: 1
+too many arguments provided to function-like macro invocation: 82
+too many arguments to function call: 11
+type 'A' is not assignable: 2
+typecasting pointer: 463
+unknown error: 4
+unknown type name: 322
+unknown type name with suffix '_0': 40
+use of undeclared identifier: 1120
+variable has incomplete type: 2
+variable has incomplete type 'void': 3

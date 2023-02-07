@@ -1,0 +1,34 @@
+a parameter list without types is only allowed in a function definition,1
+array type is not assignable,3
+assigning to type A from incompatible type B,38
+called object type '<dependent type>' is not a function or function pointer,15
+called object type 'int' is not a function or function pointer,5
+cannot assign to variable,1
+cannot combine with previous declaration specifier,1
+conflicting types for a function,34
+"expected ;, ('",1394
+expected expression,1283
+expected identifier or '(',280
+incomplete definition of type,39
+inline can only appear on functions,1
+invalid conversion between vector type __m128i,198
+invalid operands to binary expression,150
+member reference type '__128' is not a structure or union,13
+member reference type '__128i' is not a structure or union,81
+member reference type is not a structure or union,8
+must use 'enum' tag to refer to type,9
+must use 'union' tag to refer to type,621
+passing sth to parameter of incompatible type,11
+redefinition of free_inst_list,1
+statement requires expression of scalar type,4
+subscript of pointer to function type,4
+subscript of pointer to incomplete type,1
+too few arguments to function call,15
+too many arguments provided to function-like macro invocation,19
+too many arguments to function call,6
+type 'A' is not assignable,5
+typecasting pointer,1305
+unknown error,2
+unknown type name,220
+unknown type name with suffix '_0',16
+use of undeclared identifier,10997

@@ -1,0 +1,44 @@
+Total # fns with errors: 2866. Total errors: 30883
+******************** ================== error type: occurrences ******************** ==================
+ISO C requires a named parameter before: 12
+a parameter list without types is only allowed in a function definition: 35
+address of overloaded function 'A' does not match required type 'B': 1
+array type is not assignable: 28
+assigning to type A from incompatible type B: 26
+called object type '<dependent type>' is not a function or function pointer: 45
+called object type 'int' is not a function or function pointer: 18
+cannot assign to variable: 7
+cannot combine with previous declaration specifier: 2
+conflicting types for a function: 43
+expected ;, (': 1869
+expected expression: 2181
+expected identifier or '(': 369
+expression is not assignable: 3
+incomplete definition of type: 62
+invalid operands to binary expression: 200
+member reference type '__128i' is not a structure or union: 68
+member reference type is not a pointer: 6
+member reference type is not a structure or union: 28
+must use 'enum' tag to refer to type: 16
+must use 'struct' tag to refer to type: 1
+must use 'union' tag to refer to type: 1624
+no member named ?: 3
+not pointers to compatible types: 1
+passing sth to parameter of incompatible type: 23
+read-only variable is not assignable: 1
+redefinition of label: 13
+redefinition of parameter: 15
+statement requires expression of scalar type: 10
+static declaration of 'A' follows non-static declaration: 2
+subscript of pointer to function type: 7
+subscript of pointer to incomplete type: 10
+subscripted value is not an array, pointer, or vector: 5
+too few arguments to function call: 32
+too many arguments provided to function-like macro invocation: 36
+too many arguments to function call: 16
+type 'A' is not assignable: 1
+typecasting pointer: 2634
+unknown error: 3
+unknown type name: 491
+unknown type name with suffix '_0': 94
+use of undeclared identifier: 20809

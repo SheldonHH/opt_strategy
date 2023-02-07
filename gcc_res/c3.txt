@@ -1,0 +1,48 @@
+Total # fns with errors: 2342. Total errors: 38176
+******************** ================== error type: occurrences ******************** ==================
+ISO C requires a named parameter before: 12
+a parameter list without types is only allowed in a function definition: 6
+array type is not assignable: 1
+assigning to type A from incompatible type B: 191
+attempt to use a poisoned identifier: 3
+called object type '<dependent type>' is not a function or function pointer: 44
+called object type 'int' is not a function or function pointer: 21
+cannot assign to variable: 3
+cannot combine with previous declaration specifier: 2
+conflicting types for a function: 78
+expected ;, (': 2458
+expected apostrophe near declaration specifiers: 4
+expected expression: 3989
+expected identifier or '(': 389
+incomplete definition of type: 65
+invalid conversion between vector type __m128: 3
+invalid conversion between vector type __m128d: 36
+invalid conversion between vector type __m128i: 145
+invalid operands to binary expression: 180
+member reference type '__128i' is not a structure or union: 481
+member reference type is not a structure or union: 149
+must use 'enum' tag to refer to type: 26
+must use 'struct' tag to refer to type: 2
+must use 'union' tag to refer to type: 1911
+not pointers to compatible types: 1
+passing sth to parameter of incompatible type: 15
+read-only variable is not assignable: 2
+redefinition of __ptr32: 1
+redefinition of label: 9
+redefinition of parameter: 8
+statement requires expression of scalar type: 7
+static declaration of 'A' follows non-static declaration: 4
+subscript of pointer to function type: 2
+subscript of pointer to incomplete type: 10
+subscripted value is not an array, pointer, or vector: 3
+too few arguments to function call: 20
+too many arguments provided to function-like macro invocation: 35
+too many arguments to function call: 30
+type 'A' is not assignable: 10
+typecasting pointer: 1298
+unknown error: 10
+unknown type name: 491
+unknown type name with suffix '_0': 46
+use of undeclared identifier: 25903
+variable has incomplete type: 1
+variable has incomplete type 'void': 1
